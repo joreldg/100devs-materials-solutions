@@ -1,0 +1,25 @@
+li{
+    color:blue;
+    text-decoration:underline;
+    size:15px;
+    background:gray;
+}
+section{
+    height:300px;
+    background:lavender;
+    border:5px solid gold;
+}
+h1{
+    size:30px;
+    color:gold;
+    text-align:center;
+    font-family:"source sans pro",'helvetica',sans-serif;
+}
+footer{
+    background:rgb(29,18,13);
+    height:300px;
+    width:70%;
+}
+h2{
+    text-decoration-line:line-through;
+}

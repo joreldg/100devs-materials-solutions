@@ -1,0 +1,48 @@
+*{
+  box-sizing:border-box;
+}
+.main{
+  background:gray;
+  width:600px;
+  max-height:1080px;
+}
+header{
+  height:100px;
+  border:6pt double black;
+  text-align:center;
+}
+.left{
+  text-align:center;
+  border:3pt solid black;
+  color:white;
+  float:left;
+  width:200px;
+  height:200px;
+  background:blue;
+}
+.middle{
+  text-align:center;
+  border:3pt solid black;
+  color:white;
+  float:left;
+  width:200px;
+  height:200px;
+  background:green;
+}
+.right{
+  text-align:center;
+  border:3pt solid black;
+  color:white;
+  float:right;
+  width:200px;
+  height:200px;
+  background:red;
+}
+footer{
+  height:100px;
+  clear:both;
+  color:white;
+  text-align:center;
+  border:6pt double black;
+  background:gray;
+}

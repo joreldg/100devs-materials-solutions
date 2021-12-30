@@ -1,0 +1,41 @@
+*{
+  margin:0px;
+  padding:0px;
+  font-family:sans-serif;
+}
+
+.box-1{
+  max-width:900px;
+  background:skyblue;
+  font-size:50px;
+  padding:50px;
+  border:10px solid black;
+  margin:50px ;
+}
+.box-2{
+  max-width:900px;
+  background:blue;
+  box-sizing:border-box;
+  font-size:50px;
+  padding:50px;
+  border:10px solid black;
+  margin:50px ;
+}
+.box-3{
+  max-width:900px;
+  background:red;
+  box-sizing:content-box;
+  font-size:50px;
+  padding:50px;
+  border:10px solid black;
+  margin:50px ;
+}
+.box-4{
+  max-width:900px;
+  background:green;
+  box-sizing:border-box;
+  font-size:50px;
+  padding:50px;
+  border:50px solid black;
+  margin:50px;
+}
